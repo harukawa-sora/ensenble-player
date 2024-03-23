@@ -20,7 +20,7 @@ export const Songs = [
         label: "年越しあんさんぶる！！2021→2022"
     },
     {
-        value: 111,
+        value: 144,
         label: "Surprising Thanks!!"
     },
     {
